@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
