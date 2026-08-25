@@ -62,4 +62,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0509-fibonacci-number) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
