@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0136-single-number) |
 | [0621-task-scheduler](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0621-task-scheduler) |
 | [1834-single-threaded-cpu](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1834-single-threaded-cpu) |
@@ -70,9 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
