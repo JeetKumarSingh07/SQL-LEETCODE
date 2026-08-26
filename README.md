@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0136-single-number) |
 | [0621-task-scheduler](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0621-task-scheduler) |
+| [0912-sort-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0912-sort-an-array) |
 | [1834-single-threaded-cpu](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1834-single-threaded-cpu) |
 ## Bit Manipulation
 |  |
@@ -37,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0621-task-scheduler) |
+| [0912-sort-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0912-sort-an-array) |
 | [1834-single-threaded-cpu](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1834-single-threaded-cpu) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0621-task-scheduler) |
+| [0912-sort-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0912-sort-an-array) |
 | [1834-single-threaded-cpu](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1834-single-threaded-cpu) |
 ## Hash Table
 |  |
@@ -81,4 +84,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
