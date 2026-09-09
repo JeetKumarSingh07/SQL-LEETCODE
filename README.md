@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0125-valid-palindrome) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0777-swap-adjacent-in-lr-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0125-valid-palindrome) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0777-swap-adjacent-in-lr-string) |
 ## Database
 |  |
 | ------- |
