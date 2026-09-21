@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0912-sort-an-array) |
 | [1834-single-threaded-cpu](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1834-single-threaded-cpu) |
+| [2733-neither-minimum-nor-maximum](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/2733-neither-minimum-nor-maximum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0912-sort-an-array) |
 | [1834-single-threaded-cpu](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1834-single-threaded-cpu) |
+| [2733-neither-minimum-nor-maximum](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/2733-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
