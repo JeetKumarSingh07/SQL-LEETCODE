@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0136-single-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0912-sort-an-array) |
 | [1834-single-threaded-cpu](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1834-single-threaded-cpu) |
@@ -39,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0912-sort-an-array) |
 | [1834-single-threaded-cpu](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1834-single-threaded-cpu) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0912-sort-an-array) |
 | [1834-single-threaded-cpu](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1834-single-threaded-cpu) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -107,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1226-the-dining-philosophers](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1226-the-dining-philosophers) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
