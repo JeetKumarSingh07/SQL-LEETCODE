@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0777-swap-adjacent-in-lr-string) |
 ## String
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0621-task-scheduler) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0912-sort-an-array) |
@@ -117,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
