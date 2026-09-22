@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0912-sort-an-array) |
 | [1834-single-threaded-cpu](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1834-single-threaded-cpu) |
@@ -40,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0912-sort-an-array) |
 | [1834-single-threaded-cpu](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1834-single-threaded-cpu) |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0621-task-scheduler) |
 ## Greedy
 |  |
@@ -80,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -128,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
