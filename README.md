@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0912-sort-an-array) |
 | [1834-single-threaded-cpu](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1834-single-threaded-cpu) |
 | [2733-neither-minimum-nor-maximum](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/2733-neither-minimum-nor-maximum) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0912-sort-an-array) |
 | [1834-single-threaded-cpu](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1834-single-threaded-cpu) |
 | [2733-neither-minimum-nor-maximum](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/2733-neither-minimum-nor-maximum) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
