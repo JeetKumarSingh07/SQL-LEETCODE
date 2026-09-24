@@ -1,3 +1,4 @@
-# Write your MySQL query statement below
-select EmployeeUNI.unique_id,Employees.name from Employees
-left join EmployeeUNI on Employees.id =EmployeeUNI .id
+SELECT unique_id,name
+FROM Employees as E 
+LEFT JOIN EmployeeUNI  as U 
+ON E.id = U.id;
