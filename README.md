@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0912-sort-an-array) |
+| [1029-two-city-scheduling](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1029-two-city-scheduling) |
 | [1834-single-threaded-cpu](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1834-single-threaded-cpu) |
 | [2733-neither-minimum-nor-maximum](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/2733-neither-minimum-nor-maximum) |
 ## Bit Manipulation
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0912-sort-an-array) |
+| [1029-two-city-scheduling](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1029-two-city-scheduling) |
 | [1834-single-threaded-cpu](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1834-single-threaded-cpu) |
 | [2733-neither-minimum-nor-maximum](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/2733-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0621-task-scheduler) |
+| [1029-two-city-scheduling](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1029-two-city-scheduling) |
 ## Counting
 |  |
 | ------- |
@@ -183,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/0268-missing-number) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/JeetKumarSingh07/SQL-LEETCODE/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
